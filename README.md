@@ -17,9 +17,8 @@ node, and manipulating data. We show how to implement the motivating example wit
 </p>
 
 > [!NOTE]
-> <p align="justify">The following figure shows workflow automation starting from node mapping data from a Notion to a node sending an invitation email to the invited guest.
+> The following figure shows workflow automation starting from node mapping data from a Notion to a node sending an invitation email to the invited guest.
 
-</p>
 <img src="https://github.com/tuadiel6/gssi-n8n_workflow_project/blob/main/Figures/flow.png" >
 <p align="center"> Fig.1. Workflow</p>
  
