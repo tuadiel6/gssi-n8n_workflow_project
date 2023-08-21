@@ -9,14 +9,14 @@ The departments of a University have international collaborations with professor
 As long as we specify the title of the course, the dates, and an abstract, a web page can be generated and published online to announce the course or the novel collaboration. Concerning the payment, when a new guest is invited, a new payment must be emitted, and this should be managed by another system when the collaboration  has been completed and confirmed.
 </p>
 
-## The proposed Solution
+## The Proposed Solution
 
 <p align="justify">
 Nodes are the key building blocks of a workflow in N8N, and they can be used to perform a range of actions, including starting the workflow, fetching or sending data to the next
-node, and manipulating data. We show how to implement the motivating example with N8N tool.
+node, and manipulating data. We show how to implement the motivating example with the N8N tool.
 </p>
 
-<p align="justify">The following figure shows the metamodel engineered starting from node mapping data from a Notion to a sending email node
+<p align="justify">The following figure shows workflow automation starting from node mapping data from a Notion to a node sending an invitation email to the invited guest.
 
 </p>
 <img src="https://github.com/tuadiel6/gssi-n8n_workflow_project/blob/main/Figures/Workflow.png" >
