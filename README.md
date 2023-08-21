@@ -18,5 +18,5 @@ node, and manipulating data. We show how to implement the motivating example wit
 
 <p align="justify">The following figure shows the metamodel engineered starting from the domain specification and an exemplary instance regarding the Guest Invitation process of a University
 </p>
-<img src="https://github.com/gssi/emf_workflow_project/blob/main/figures/university_organization_metamodel.png" >
-<p align="center"> Fig.1. Guest Invitation metamodel with an instance model</p>
+<img src="https://github.com/tuadiel6/gssi-n8n_workflow_project/blob/main/Figures/Figures/Workflow.png" >
+<p align="center"> Fig.1. Workflow</p>
