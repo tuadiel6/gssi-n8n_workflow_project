@@ -1,6 +1,6 @@
 # Data Manipulation in the Workflow Automation Tools
 
-Data manipulation is the main type of process targeted by workflow automation tools (WAT), with the help of a motivating example, we explore data manipulation using a workflow automation tool called <a href="https://n8n.io/">N8N</a>.
+Data manipulation is the main type of process targeted by workflow automation tools (WAT). With the help of a motivating example, we explore data manipulation using a workflow automation tool called <a href="https://n8n.io/">N8N</a>.
 
 ## Motivating Example
 
