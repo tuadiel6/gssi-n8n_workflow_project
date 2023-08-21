@@ -16,7 +16,8 @@ Nodes are the key building blocks of a workflow in N8N, and they can be used to 
 node, and manipulating data. We show how to implement the motivating example with N8N tool.
 </p>
 
-<p align="justify">The following figure shows the metamodel engineered starting from the domain specification and an exemplary instance regarding the Guest Invitation process of a University
+<p align="justify">The following figure shows the metamodel engineered starting from node mapping data from a Notion to a sending email node
+
 </p>
 <img src="https://github.com/tuadiel6/gssi-n8n_workflow_project/blob/main/Figures/Workflow.png" >
 <p align="center"> Fig.1. Workflow</p>
