@@ -22,7 +22,7 @@ node, and manipulating data. We show how to implement the motivating example wit
 <img src="https://github.com/tuadiel6/gssi-n8n_workflow_project/blob/main/Figures/flow.png" >
 <p align="center"> Fig.1. Workflow</p>
 
-> [!START]
+> [!NOTE]
 > Highlights information that users should take into account, even when skimming.
 > 
 The validation node was tested to verify the validity of guest emails. Various email addresses, including valid and invalid ones, were inputted to assess the validation process. The results demonstrated that the validation node successfully identified valid and invalid email addresses from the EMF model as expected. The code generation was assessed using the HTML template node to generate web pages announcing upcoming courses. The EMF data model was passed as input to this node, and the resulting web page accurately reflected the provided information, including course title, dates, and abstract, was generated.
