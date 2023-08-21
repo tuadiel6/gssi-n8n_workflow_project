@@ -18,5 +18,5 @@ node, and manipulating data. We show how to implement the motivating example wit
 
 <p align="justify">The following figure shows the metamodel engineered starting from the domain specification and an exemplary instance regarding the Guest Invitation process of a University
 </p>
-<img src="https://github.com/tuadiel6/gssi-n8n_workflow_project/blob/main/Figures/Figures/Workflow.png" >
+<img src="https://github.com/tuadiel6/gssi-n8n_workflow_project/blob/main/Figures/Workflow.png" >
 <p align="center"> Fig.1. Workflow</p>
