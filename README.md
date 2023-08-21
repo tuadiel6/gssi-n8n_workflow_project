@@ -10,7 +10,13 @@ As long as we specify the title of the course, the dates, and an abstract, a web
 </p>
 
 ## The proposed Solution
+
 <p align="justify">
 Nodes are the key building blocks of a workflow in N8N, and they can be used to perform a range of actions, including starting the workflow, fetching or sending data to the next
 node, and manipulating data. We show how to implement the motivating example with N8N tool.
+</p>
 
+<p align="justify">The following figure shows the metamodel engineered starting from the domain specification and an exemplary instance regarding the Guest Invitation process of a University
+</p>
+<img src="https://github.com/gssi/emf_workflow_project/blob/main/figures/university_organization_metamodel.png" >
+<p align="center"> Fig.1. Guest Invitation metamodel with an instance model</p>
