@@ -22,6 +22,9 @@ node, and manipulating data. We show how to implement the motivating example wit
 <img src="https://github.com/tuadiel6/gssi-n8n_workflow_project/blob/main/Figures/flow.png" >
 <p align="center"> Fig.1. Workflow</p>
 
+> [1START]
+> Highlights information that users should take into account, even when skimming.
+> 
 The validation node was tested to verify the validity of guest emails. Various email addresses, including valid and invalid ones, were inputted to assess the validation process. The results demonstrated that the validation node successfully identified valid and invalid email addresses from the EMF model as expected. The code generation was assessed using the HTML template node to generate web pages announcing upcoming courses. The EMF data model was passed as input to this node, and the resulting web page accurately reflected the provided information, including course title, dates, and abstract, was generated.
 
 %For Model to Model (M2M) transformation, a set node, and airtable node were employed to handle payment details based on input data from the EMF model. Model to Text (M2T) transformation was examined through the generation of customized invitation letters using the Google Doc node. The necessary information, including guest details and collaboration information from the EMF model, was inputted to generate well-formatted and comprehensive invitation letters suitable for sending to the invited guests. Finally, the email node was utilized to send emails to the invited guests, providing them with relevant information from the EMF data model. The emails, along with the generated invitation letters as attachments, were successfully sent to the intended recipients.
